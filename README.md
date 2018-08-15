@@ -11,3 +11,10 @@ arkit add object test
 
 
 
+<script src="http://vjs.zencdn.net/4.0/video.js"></script>
+
+<video id="pelican-installation" class="video-js vjs-default-skin" controls
+preload="auto" width="683" height="384" poster="/static/screencasts/pelican-installation.png"
+data-setup="{}">
+<source src="https://github.com/kiddchantw/arObjectTest/blob/master/demo.mp4" type='video/mp4'>
+</video>
